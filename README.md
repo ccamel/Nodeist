@@ -1,3 +1,5 @@
+<p align="center"> <a href="https://nodeist.site/" target="_blank"><img src="https://raw.githubusercontent.com/Nodeist/Testnet_Kurulumlar/main/logo.png" width="64"/></a></p>
+
 # Nodeist Profili
 
 - Name: Nodeist
