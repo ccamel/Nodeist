@@ -1,4 +1,4 @@
-# Nodeist Düğüm Profili
+# Nodeist Profili
 
 - Name: Nodeist
 - E-posta: nodeistt@gmail.com
