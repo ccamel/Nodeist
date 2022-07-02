@@ -22,12 +22,12 @@ Deneyimli profesyoneller tarafından yönetilen birçok ana ağ ve test ağı bl
 
 Tüm Doğrulayıcı Düğümlerimiz için aşağıdaki güvenlik önlemlerini ayarladık.
 
-1. Güvenlik Duvarı - 26656 gibi birkaç önemli bağlantı noktası dışında gelen tüm trafiği reddedin.
-2. Donanım, sunucuya giriş yapmak için SSH Anahtar Kimlik Doğrulamayı bağladı. Bu anahtarlar olmadan kimse giriş yapamaz.
-3. Varsayılan SSH bağlantı noktası 22'yi kaldırın ve SSH için başka bir bağlantı noktası kullanıyoruz.
-4. Kök parola kullanılarak SSH girişi kaldırıldı.
+1. Güvenlik Duvarı - 26656 gibi birkaç önemli bağlantı noktası dışında gelen tüm trafiği reddediyoruz.
+2. Donanım, sunucuya giriş yapmak için SSH Anahtar Kimlik Doğrulamayı bağladık (.pem). Bu anahtarlar olmadan kimse giriş yapamaz.
+3. Varsayılan SSH bağlantı noktası 22'yi kaldırdık ve SSH için başka bir bağlantı noktası kullanıyoruz.
+4. Kök parola (root-pass) kullanılarak SSH girişi kaldırdık.
 5. IP Kilidi - SSH girişine yalnızca 1 ana IP'den izin verilir ve seyahat sırasında başka bir IP'ye geçici erişime izin verilir.
-6. NVMe SSD ile tüm düğümlerimiz için özel olarak ayrılmış güçlü sunucular. Sunucuda en iyi performans için birkaç ayar güncellendi. İşletim sistemi için yeni güncellemeleri düzenli olarak kontrol edin ve güncelleyin.
+6. NVMe SSD ile tüm düğümlerimiz için özel olarak ayrılmış güçlü sunucular çalıştırıyoruz. Sunucuda en iyi performans için birkaç ayar özel olarak güncellendi. İşletim sistemi için yeni güncellemeleri düzenli olarak kontrol ediyor ve güncelliyoruz.
 7. Tam senkronize Yedekleme sunucusu (Kujira Testnet için bile) ve ana sunucu kapalıysa 5 dakika içinde yedekleme sunucusuna geçebiliriz.
 
 ## Bize Ulaşın
