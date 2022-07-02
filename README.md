@@ -5,7 +5,7 @@
 - Name: Nodeist
 - E-posta: nodeistt@gmail.com
 - Telegram: @Noodeist
-- Anlaşmazlık: Nodeist#3299
+- Discord: Nodeist#3299
 - Twitter: https://twitter.com/Nodeistt
 - Web sitesi: https://nodeist.site
 - Youtube: https://www.youtube.com/channel/UC_vivGMWm8jLElJdLu5pgcw
@@ -37,5 +37,5 @@ Herhangi bir sorunuz varsa, bize şu adresten ulaşabilirsiniz:
 - E-posta: nodeistt@gmail.com
 - Twitter: https://twitter.com/Nodeistt
 - Telgraf: https://t.me/Noodeist
-- Anlaşmazlık: Nodeist#3299
+- Discord: Nodeist#3299
 - Web sitesi: https://nodeist.site
