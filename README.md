@@ -39,3 +39,8 @@ Herhangi bir sorunuz varsa, bize şu adresten ulaşabilirsiniz:
 - Telgraf: https://t.me/Noodeist
 - Discord: Nodeist#3299
 - Web sitesi: https://nodeist.site
+
+
+## Referanslar
+Genesis Validator Kujira
+https://kujira.explorers.guru/validator/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
