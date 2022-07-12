@@ -44,3 +44,4 @@ Herhangi bir sorunuz varsa, bize şu adresten ulaşabilirsiniz:
 ## Referanslar
 Genesis Validator Kujira
 https://kujira.explorers.guru/validator/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
+https://blue.kujira.app/stake/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
