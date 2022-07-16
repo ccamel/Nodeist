@@ -3,7 +3,7 @@
 # Nodeist Profili
 
 - Name: Nodeist
-- E-posta: nodeistt@gmail.com
+- E-posta: admin@nodeist.com
 - Telegram: @Noodeist
 - Discord: Nodeist#3299
 - Twitter: https://twitter.com/Nodeistt
