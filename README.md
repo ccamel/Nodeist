@@ -7,7 +7,7 @@
 - Telegram: @Noodeist
 - Discord: Nodeist#3299
 - Twitter: https://twitter.com/Nodeistt
-- Web sitesi: https://nodeist.site
+- Web sitesi: https://nodeist.net
 - Youtube: https://www.youtube.com/channel/UC_vivGMWm8jLElJdLu5pgcw
 
 Deneyimli profesyoneller tarafından yönetilen birçok ana ağ ve test ağı blok zinciri için son derece güvenli, hızlı ve kararlı doğrulayıcı düğümler işletiyoruz. Haziran 2020'dan beri doğrulayıcı düğümleri işletiyoruz ve bu 2 yılda değerli bir deneyim kazandık. Ayrıca Ekosisteme aşağıdaki katkıları da sağlamaktayız.
