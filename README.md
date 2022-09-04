@@ -1,5 +1,4 @@
 <p align="center"> <a href="https://nodeist.site/" target="_blank"><img src="https://raw.githubusercontent.com/Nodeist/Testnet_Kurulumlar/main/logo.png" width="64"/></a></p>
-
 # Nodeist Profile
 
 - Name: Nodeist
@@ -45,4 +44,8 @@ If you have any questions, you can reach us at:
 
 https://blue.kujira.app/stake/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
 https://kujira.explorers.guru/validator/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
+
+
+
+<img align="top" src="https://komarev.com/ghpvc/?username=Nodeist&color=blue"/>
 
