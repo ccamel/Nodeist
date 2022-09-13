@@ -40,13 +40,25 @@ If you have any questions, you can reach us at:
 - Website: https://nodeist.net
 
 ## References
-- Genesis Validator Kujira
+- Mainnet Validators:
 
-https://blue.kujira.app/stake/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
+Kujira
+```
+https://kujira.nodeist.net
 https://kujira.explorers.guru/validator/kujiravaloper13vyvwfc5es7wx723z5j0xtgagy4k42s6gaksx7
+```
 
+Stride
+```
+https://stride.nodeist.net
+https://stride.explorers.guru/validator/stridevaloper10dahvqtd229q8ndggjk0upcjnkjckdjal5tqz2
+```
 
-
+Rebus
+```
+https://rebus.nodeist.net
+https://rebus.explorers.guru/validator/rebusvaloper1cvn7ldc24lvhhkyxz75x66hmmuppm2hpk44ddy
+```
 
 
 <div align="center">
