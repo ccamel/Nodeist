@@ -60,6 +60,11 @@ https://rebus.nodeist.net
 https://rebus.explorers.guru/validator/rebusvaloper1cvn7ldc24lvhhkyxz75x66hmmuppm2hpk44ddy
 ```
 
+Teritori
+```
+https://teritori.nodeist.net
+https://teritori.explorers.guru/validator/torivaloper1dq5s7kl7285n44pqc0xacpjxy07ycur0zjy9sh
+```
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
