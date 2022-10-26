@@ -67,7 +67,7 @@ https://teritori.explorers.guru/validator/torivaloper1dq5s7kl7285n44pqc0xacpjxy0
 ```
 
 
-Teritori
+Jackal
 ```
 https://jackal.nodeist.net
 https://exp.nodeist.net/jackal/staking/jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a
