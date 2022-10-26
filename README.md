@@ -66,6 +66,13 @@ https://teritori.nodeist.net
 https://teritori.explorers.guru/validator/torivaloper1dq5s7kl7285n44pqc0xacpjxy07ycur0zjy9sh
 ```
 
+
+Teritori
+```
+https://jackal.nodeist.net
+https://exp.nodeist.net/jackal/staking/jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a
+```
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=Nodeist&show_icons=true&theme=nightowl"/>
