@@ -70,7 +70,19 @@ https://teritori.explorers.guru/validator/torivaloper1dq5s7kl7285n44pqc0xacpjxy0
 Jackal
 ```
 https://jackal.nodeist.net
-https://exp.nodeist.net/jackal/staking/jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a
+https://exp.nodeist.net/m-jackal/staking/jklvaloper1y89nm42gk7thhpp4ar0tdz4fva6mnq8z3zfv7a
+```
+
+C4E
+```
+https://c4e.nodeist.net
+https://exp.nodeist.net/m-c4e/staking/c4evaloper18gy7nsylmaz8vkfa2mfw4vyz39qnc6dnuncplj
+```
+
+AcreChain
+```
+https://acrechain.nodeist.net
+https://exp.nodeist.net/m-acrechain/
 ```
 
 <div align="center">
